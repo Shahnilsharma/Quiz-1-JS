@@ -14,7 +14,6 @@ function checkPrime(num) {
     console.log(`${num} is a prime number.`);
     return true;
 }
-
 checkPrime(3);
 
 // - **Easy**: Write a function that returns the factorial of a number.
